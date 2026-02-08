@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>picture/game.png</file>
+        <file>picture/over.png</file>
+        <file>music/bgm.WAV~1.wav</file>
+        <file>music/move.wav</file>
+        <file>music/fix.wav</file>
+        <file>music/over.wav</file>
+        <file>music/BGM.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>picture/20220505180531.jpg</file>
+    </qresource>
+</RCC>
